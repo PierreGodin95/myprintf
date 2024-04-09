@@ -1,0 +1,1 @@
+The my_printf is a project we has to make in the second part of the Epitech C Pool, in duo and in two weeks, it was our first big project. We managed to complete 63% of the project, bringing our project at the very top of the promotion
