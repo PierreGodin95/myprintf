@@ -1,0 +1,11 @@
+*~
+*.a
+*.o
+*.gcda
+*.gcno
+vgcore.*
+#*#
+a.out
+useless
+coding-style-reports.log
+main.c
